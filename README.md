@@ -8,8 +8,6 @@
        style="width:450px; height:250px; border-radius:50%; object-fit:cover; border:4px solid white;">
 </p>
 
-<h2 align="center">A passionate software developer (Android or Java)</h2>
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zeba-sabih-2460b422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeba-sabih-2460b422a/" height="40" width="40" /></a>
