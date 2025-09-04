@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeba</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer (Android or Java) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeba62&label=Profile%20views&color=0e75b6&style=flat" alt="zeba62" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Android with Integration of AI**
 
-- 💬 Ask me about **Java, Kotlin, XML, Kotlin etc**
+- 💬 Ask me about **Coding life with Java, Kotlin, XML, Jetpack Compose etc**
 
-- 📫 How to reach me **sabih0126@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
