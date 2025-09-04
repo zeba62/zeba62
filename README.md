@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=7F00FF&height=120&section=header&text=Hi%20👋,%20I'm%20Zeba%20Sabih&fontColor=000000&fontSize=50" />
-
+<img height="50" src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fcool-anime-satoru-gojo-jujutsu-kaisen-984wuhwhrx8zmwz1.html&psig=AOvVaw24WhUWeQG1iHiwuWrv8Ueu&ust=1757075743092000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDCj72Pv48DFQAAAAAdAAAAABAE)"/>
 <h1 align="center">Let's connect together!</h1>
 <h3 align="center">A passionate software developer (Android or Java)</h3>
 
