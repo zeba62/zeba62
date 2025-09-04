@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-       src="https://gifdb.com/images/high/cool-anime-satoru-gojo-jujutsu-kaisen-984wuhwhrx8zmwz1.gif" 
+       src="https://i.ibb.co/MkbfwJ8Q/gojo.gif" 
        alt="Gojo GIF"
        style="width:500px; height:200px; border-radius:50%; object-fit:cover; border:4px solid white;">
 </p>
