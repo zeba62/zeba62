@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=random&height=120&section=header&text=Hi%20👋,%20I'm%20Zeba%20Sabih&fontColor=FFFFFF&fontSize=50" />
 
-<h1 align="center">Hi 👋, I'm Zeba</h1>
+<h1 align="center">Let's connect together!</h1>
 <h3 align="center">A passionate software developer (Android or Java) from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeba62" alt="zeba62" /></a> </p>
