@@ -1,11 +1,13 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h1 align="center">Hi 👋, I'm Zeba</h1>
 <h3 align="center">A passionate software developer (Android or Java) from India</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=zeba62&label=Profile%20views&color=0e75b6&style=flat" alt="zeba62](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgojo-satoru-jujutsu-kaisen-gif-gojo-satoru-jujutsu-kaisen-gojo-discover-share-gifs--689402655468624747%2F&psig=AOvVaw1nP1ka2HfKYKoaoPAPrKXm&ust=1757069672717000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCBnPD4vo8DFQAAAAAdAAAAABAL)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeba62" alt="zeba62" /></a> </p>
 
