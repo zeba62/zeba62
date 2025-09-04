@@ -1,7 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 <h1 align="center">Hi 👋, I'm Zeba</h1>
 <h3 align="center">A passionate software developer (Android or Java) from India</h3>
 
