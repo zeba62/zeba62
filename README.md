@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Zeba%20Sabih&fontSize=50" />
 
 <h1 align="center">Hi 👋, I'm Zeba</h1>
 <h3 align="center">A passionate software developer (Android or Java) from India</h3>
