@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=7F00FF&height=120&section=header&text=Hi%20👋,%20I'm%20Zeba%20Sabih&fontColor=000000&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=7F00FF&height=120&section=header&text=Hi%20👋,%20I'm%20Zeba%20Sabih&fontColor=ffffff&fontSize=50" />
 <h1 align="center">Let's connect together!</h1>
 
 <p align="center">
