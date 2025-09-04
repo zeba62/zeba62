@@ -1,7 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=7F00FF&height=120&section=header&text=Hi%20👋,%20I'm%20Zeba%20Sabih&fontColor=000000&fontSize=50" />
 <h1 align="center">Let's connect together!</h1>
 
-<img height="200" src="https://gifdb.com/images/high/cool-anime-satoru-gojo-jujutsu-kaisen-984wuhwhrx8zmwz1.gif" alt="Gojo GIF"   style="display:block; margin:auto; width:200px; height:200px; border-radius:50%; object-fit:cover; border:4px solid white;">
+<p align="center">
+  <img height="200" 
+       src="https://gifdb.com/images/high/cool-anime-satoru-gojo-jujutsu-kaisen-984wuhwhrx8zmwz1.gif" 
+       alt="Gojo GIF"
+       style="width:200px; height:200px; border-radius:50%; object-fit:cover; border:4px solid white;">
+</p>
 
 <h3 align="center">A passionate software developer (Android or Java)</h3>
 
