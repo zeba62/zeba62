@@ -25,11 +25,44 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/zeba_sabih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/zeba_sabih" height="30" width="40" /></a>
 </p>
 
+name: Piyush Malhotra
+located_in: Calgary, Alberta
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Communication",
+  ]
+company: Soulber
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeba62&" alt="zeba62" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeba62&show_icons=true&locale=en&layout=compact" alt="zeba62" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeba62&show_icons=true&locale=en&layout=compact" alt="zeba62" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeba62&show_icons=true&locale=en" alt="zeba62" /></p>
 
 
