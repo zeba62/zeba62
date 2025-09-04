@@ -2,10 +2,10 @@
 <h1 align="center">Let's connect together!</h1>
 
 <p align="center">
-  <img height="200" 
+  <img 
        src="https://gifdb.com/images/high/cool-anime-satoru-gojo-jujutsu-kaisen-984wuhwhrx8zmwz1.gif" 
        alt="Gojo GIF"
-        style="width:500px; height:200px; border-radius:50%; object-fit:cover; border:4px solid white;">
+       style="width:500px; height:200px; border-radius:50%; object-fit:cover; border:4px solid white;">
 </p>
 
 <h3 align="center">A passionate software developer (Android or Java)</h3>
