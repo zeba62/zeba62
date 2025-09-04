@@ -5,7 +5,7 @@
   <img 
        src="https://i.ibb.co/MkbfwJ8Q/gojo.gif" 
        alt="Gojo GIF"
-       style="width:500px; height:300px; border-radius:50%; object-fit:cover; border:4px solid white;">
+       style="width:600px; height:200px; border-radius:50%; object-fit:cover; border:4px solid white;">
 </p>
 
 <h3 align="center">A passionate software developer (Android or Java)</h3>
