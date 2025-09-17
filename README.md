@@ -1,12 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=7F00FF&height=120&section=header&text=Hi%20👋,%20I'm%20Zeba%20Sabih&fontColor=ffffff&fontSize=50" />
 <h1 align="center">Let's connect together!</h1>
 
+<!--
 <p align="center">
   <img 
        src="https://i.ibb.co/MkbfwJ8Q/gojo.gif" 
        alt="Gojo GIF"
        style="width:450px; height:250px; border-radius:50%; object-fit:cover; border:4px solid white;">
-</p>
+</p>-->
+
+
+- 🌱 I’m learning **Android with Integration of AI**
+- 🌱 I’m currently working on Trucast- a music app, building AI integration App
+- 💬 Ask me about **Coding life with Java, Kotlin, XML, Jetpack Compose etc**
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -14,12 +20,6 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22940847/zeba-sabih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22940847/zeba-sabih" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/zeba_sabih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/zeba_sabih" height="40" width="40" /></a>
 </p>
-
-- 🌱 I’m learning **Android with Integration of AI**
-- 🌱 I’m currently working on Trucast- a music app, building AI integration App
-- 💬 Ask me about **Coding life with Java, Kotlin, XML, Jetpack Compose etc**
-
-
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeba62&show_icons=true&locale=en" alt="zeba62" /></p>
