@@ -8,21 +8,21 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>-->
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/zeba-sabih-2460b422a/">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
 
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/">
+  <a href="https://www.hackerrank.com/profile/zeba_sabih">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/>
   </a>
 
-<a href="https://discord.com/">
+<a href="https://discord.com/zeba62">
   <img height="50" src="https://cdn.simpleicons.org/Discord/5865F2"/>
 </a>
 
 <!-- Android Developers -->
-<a href="https://developer.android.com/" target="_blank" title="Explore Android Developers">
+<a href="https://developer.android.com/profile/u/Zeba26" target="_blank" title="Explore Android Developers">
   <img height="50" src="https://cdn.simpleicons.org/android/3DDC84" alt="Android Developers Logo"/>
 </a>
 <!--<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeba-sabih-2460b422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeba-sabih-2460b422a/" height="40" width="40" /></a>
